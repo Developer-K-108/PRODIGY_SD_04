@@ -1,0 +1,1 @@
+This project demonstrates the implementation of a Sudoku Solver using the backtracking algorithm with a simple Tkinter GUI. It allows users to input a Sudoku puzzle, solve it automatically, and view the completed grid. The project highlights problem-solving, recursion, and GUI development in Python, making it a great example of combining algorithms with interactive applications.
